@@ -1,11 +1,5 @@
 #html {
-    background: rgb(249, 241, 249);
-    background: linear-gradient(
-     90deg,
-     rgba(249, 241, 249, 1) 0%,
-     rgba(234, 243, 253, 1) 35%,
-     rgba(237, 251, 242, 1) 100%
-    );
+    background: #fff;
 }
 
 body {
@@ -32,7 +26,7 @@ body {
 }
 
 #right {
-    padding: 40px 20px;
+    padding: 20px;
 }
 
 #logo {
@@ -236,7 +230,7 @@ a:hover {
 }
 
 #card img {
-    border-radius: 20px 20px 0 0;
+    /* border-radius: 20px 20px 0 0; */
 }
 
 .card-text {
@@ -805,7 +799,7 @@ textarea.form-control {
 }
 .policy-wrapper {
     border: 2px solid #ccc; /* Tạo viền xám nhạt */
-    padding: 20px; /* Khoảng cách bên trong khung */
+    /*padding: 20px; /* Khoảng cách bên trong khung */
     border-radius: 10px; /* Bo tròn góc viền */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Bóng đổ nhẹ */
     margin-bottom: 20px; /* Thêm khoảng cách bên dưới khung */
